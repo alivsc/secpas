@@ -1,7 +1,7 @@
 # SECPAS
 
   <p align = "center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4264/4264841.png">
+  <img src="https://cdn-icons.flaticon.com/png/512/3954/premium/3954103.png?token=exp=1655983741~hmac=d852b165a208e04c7625e7dddd200411">
   </p>
 
 <p align = "center">
